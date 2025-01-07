@@ -4,10 +4,10 @@ Welcome to my GitHub portfolio! Here you'll find projects and contributions that
 
 ## 👩‍🎓 About Me
 
-- **Master's Student** in Engineering Science (Artificial Intelligence)  
+- Master's in Engineering Science (Artificial Intelligence)  
   University at Buffalo, State University of New York (Aug 2023 – Dec 2024)  
 
-- **Bachelor's Degree** in Computer Science  
+- Bachelor's in Computer Science  
   Kakatiya Institute of Technology and Science, India (Aug 2019 – May 2023)
 
 ## 📜 Projects
